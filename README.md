@@ -1,6 +1,8 @@
 # precobitcoin
 
-A new Flutter application.
+Learning build Flutter Applications
+
+This app get the bitcoin value in BRL.
 
 ## Getting Started
 
